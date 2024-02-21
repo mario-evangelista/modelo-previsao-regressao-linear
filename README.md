@@ -1,7 +1,4 @@
-Aqui está um exemplo de um arquivo README.md para o seu repositório do GitHub com base no código Python fornecido:
-
-
-# Análise de Regressão Linear Simples
+# Modelo Prditivo - Análise de Regressão Linear Simples
 
 Este repositório contém um exemplo simples de análise de regressão linear usando Python. O código Python gera uma amostra aleatória de dados bidimensionais e ajusta um modelo de regressão linear a esses dados.
 
@@ -39,6 +36,10 @@ Coeficiente Linear: -0.6211736673932448
 ```
 
 Além disso, um gráfico será exibido mostrando os dados originais, a linha de regressão ajustada e um ponto de exemplo.
+
+<div align="center">
+<img src="https://github.com/mario-evangelista/modelo-previsao-regressao-linear/assets/121322767/4d7213aa-6bac-42b1-b200-fc6206f30b5d" width="700px" />
+</div>
 
 ## Contribuição
 
