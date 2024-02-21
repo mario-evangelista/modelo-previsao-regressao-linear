@@ -1,6 +1,6 @@
 Aqui está um exemplo de um arquivo README.md para o seu repositório do GitHub com base no código Python fornecido:
 
-```markdown
+
 # Análise de Regressão Linear Simples
 
 Este repositório contém um exemplo simples de análise de regressão linear usando Python. O código Python gera uma amostra aleatória de dados bidimensionais e ajusta um modelo de regressão linear a esses dados.
